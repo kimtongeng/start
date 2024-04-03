@@ -1,2 +1,6 @@
 i hope today is a good one
+<<<<<<< HEAD
 today is a good day but i don't feel right
+=======
+mabye i have so much free time
+>>>>>>> 6e34e17f31e7d8d99f3909cb16ce63fa52232db7
