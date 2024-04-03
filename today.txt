@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 i hope today is a good one
 mabye i have so much free time
 mabye it just start one
+=======
+not good add all
+>>>>>>> a332432d4b6ba5e119b6014248d1ce5814dce184
